@@ -4,6 +4,55 @@
 
 Проект сделан под критерии тестового задания Frontend Developer (React + Next.js).
 
+## 🎯 Live Demonstration
+
+<div align="center">
+
+<h3>Project Overview & Live Demo</h3>
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
+
+<a href="https://resilient-withdraw-flow.vercel.app/" target="_blank" style="text-decoration: none;">
+  <div style="background: linear-gradient(135deg, #2563eb, #7c3aed); padding: 15px 30px; border-radius: 12px; color: white; font-weight: bold; font-size: 18px; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3); transition: all 0.3s ease; border: 2px solid white;">
+    View Live Application
+  </div>
+</a>
+
+</div>
+
+</div>
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/1.png" alt="nahhh" width="800"/><br/>
+  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/2.png" alt="nahhh" width="800"/><br/>
+  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/3.png" alt="nahhh" width="800"/><br/>
+  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/4.png" alt="nahhh" width="800"/><br/>
+  
+</p>
+
+
+---
+
 ## Что реализовано (по требованиям задания)
 
 ### 1) Страница Withdraw (форма)
