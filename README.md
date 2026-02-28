@@ -25,28 +25,28 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/1.png" alt="nahhh" width="800"/><br/>
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/1.png" alt="nahhh" width="400"/><br/>
   
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/2.png" alt="nahhh" width="800"/><br/>
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/2.png" alt="nahhh" width="400"/><br/>
   
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/3.png" alt="nahhh" width="800"/><br/>
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/3.png" alt="nahhh" width="400"/><br/>
   
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/4.png" alt="nahhh" width="800"/><br/>
+  <img src="https://github.com/Figrac0/Resilient-Withdraw-Flow/blob/main/github/4.png" alt="nahhh" width="400"/><br/>
   
 </p>
 
